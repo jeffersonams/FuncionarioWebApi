@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8vCNcHEIfD5vBA0A67Bc8XnNW9PDqAGUwrbMhEnVgbo=",
+  "Source": "FuncionarioWebApi",
+  "BasePath": "_content/FuncionarioWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
